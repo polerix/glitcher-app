@@ -16,6 +16,6 @@
     "modern-gif": "^2.0.4"
   },
   "devDependencies": {
-    "vite": "6.*"
+    "vite": "8.*"
   }
 }
