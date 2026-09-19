@@ -12,7 +12,7 @@
   "dependencies": {
     "@fontsource/bungee": "^5.2.5",
     "@fontsource/libre-barcode-128-text": "^5.2.5",
-    "gradient-gl": "1.*",
+    "gradient-gl": "2.*",
     "modern-gif": "^2.0.4"
   },
   "devDependencies": {
